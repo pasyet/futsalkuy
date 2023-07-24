@@ -1,0 +1,22 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "username": "Imam",
+            "email": "imam@mail.com",
+            "password": "imam123",
+            "role": "client",
+            "phone": "082359576046",
+            "address": "NTB"
+        },
+        {
+            "id": 2,
+            "username": "Andi",
+            "email": "andi@mail.com",
+            "password": "andi123",
+            "role": "client",
+            "phone": "082359576046",
+            "address": "NTB"
+        }
+    ]
+}
